@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+footer {
+    background-color: #333;
+    padding: 1rem;
+    text-align: center;
+}
+header{
+    background-color: #10c2da;
+}
+#azzaro{
+    width: 375px; height: 400px;
+}
